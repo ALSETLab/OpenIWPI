@@ -38,7 +38,7 @@ model Dsogi_hybrid "Hybrid Phasor-Wave bus using a Double SOGI filter"
         annotation (Placement(transformation(extent={{-46,50},{-66,70}})));
       Modelica.Blocks.Math.Add add_bpos
         annotation (Placement(transformation(extent={{-46,74},{-66,94}})));
-    equation
+equation
       connect(wave2phasor.PinC, pin_C) annotation (Line(points={{9,-8},{32,-8},{32,-90},
               {90,-90}}, color={0,0,255}));
       connect(wave2phasor.PinB, pin_B)
@@ -67,4 +67,4 @@ model Dsogi_hybrid "Hybrid Phasor-Wave bus using a Double SOGI filter"
               {-28,81},{-22,81}}, color={0,0,127}));
       annotation (Icon(coordinateSystem(preserveAspectRatio=false)), Diagram(
             coordinateSystem(preserveAspectRatio=false)));
-    end Dsogi_hybrid;
+end Dsogi_hybrid;
