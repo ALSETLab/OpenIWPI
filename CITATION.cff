@@ -1,0 +1,30 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite the paper listed under preferred-citation."
+title: "OpenIWPI: Open-Instance Wave-Phasor Interface Library for Power System Simulation Studies in Modelica"
+type: software
+authors:
+  - family-names: de Castro
+    given-names: Marcelo
+    affiliation: "Mitsubishi Electric Power Products, Inc."
+  - family-names: Vanfretti
+    given-names: Luigi
+    affiliation: "Rensselaer Polytechnic Institute"
+license: BSD-3-Clause
+repository-code: "https://github.com/ALSETLab/OpenIWPI"
+# After the Zenodo release, set the concept DOI:
+# doi: 10.5281/zenodo.XXXXXXXX
+preferred-citation:
+  type: conference-paper
+  title: "OpenIWPI: Open-Instance Wave-Phasor Interface Library for Power System Simulation Studies in Modelica"
+  authors:
+    - family-names: de Castro
+      given-names: Marcelo
+    - family-names: Vanfretti
+      given-names: Luigi
+  collection-title: "Proceedings of the 16th International Modelica & FMI Conference"
+  conference:
+    name: "16th International Modelica & FMI Conference"
+    city: "Lucerne"
+    country: "CH"
+  year: 2025
+  month: 9
