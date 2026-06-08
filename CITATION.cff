@@ -12,8 +12,7 @@ authors:
     affiliation: "Rensselaer Polytechnic Institute"
 license: BSD-3-Clause
 repository-code: "https://github.com/ALSETLab/OpenIWPI"
-# After the Zenodo release, set the concept DOI:
-# doi: 10.5281/zenodo.XXXXXXXX
+doi: 10.5281/zenodo.20586745
 preferred-citation:
   type: conference-paper
   title: "OpenIWPI: Open-Instance Wave-Phasor Interface Library for Power System Simulation Studies in Modelica"

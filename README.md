@@ -2,7 +2,9 @@
 
 **A Modelica library that couples phasor-based (TS) and electromagnetic-transient (EMT) power-system models, so converter-rich grids can be simulated — and linearized — as a single hybrid EMT–TS model.**
 
-[![License: BSD-3-Clause](https://img.shields.io/badge/License-BSD--3--Clause-blue.svg)](./LICENSE)
+[![License: BSD-3-Clause](https://img.shields.io/badge/License-BSD--3--Clause-blue.svg)](./LICENSE) [![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.20586745-blue)](https://doi.org/10.5281/zenodo.20586745)
+
+*Repository archived on Zenodo — DOI: [10.5281/zenodo.20586745](https://doi.org/10.5281/zenodo.20586745)*
 
 This repository is the open-source companion to the paper *"OpenIWPI: Open-Instance Wave-Phasor Interface Library for Power System Simulation Studies in Modelica"* by M. de Castro and L. Vanfretti, presented at the **16th International Modelica & FMI Conference** (Lucerne, Switzerland, September 8–10, 2025). OpenIWPI is a Modelica library that interconnects electromagnetic-transient (EMT) models with the phasor-based power-system components of [OpenIPSL](https://github.com/OpenIPSL/OpenIPSL), so that hybrid EMT–TS systems can be simulated — and linearized — together in a single Modelica model, without co-simulation.
 
@@ -96,7 +98,7 @@ If you use this library, please cite the paper:
 }
 ```
 
-*(The repository can also be archived on Zenodo to obtain a citable DOI — a recommended next step for a tagged release.)*
+You can also cite this archived release directly via its Zenodo DOI: [10.5281/zenodo.20586745](https://doi.org/10.5281/zenodo.20586745).
 
 ## License
 
