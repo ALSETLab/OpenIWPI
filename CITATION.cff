@@ -2,6 +2,7 @@ cff-version: 1.2.0
 message: "If you use this repository, please cite the paper listed under preferred-citation."
 title: "OpenIWPI: Open-Instance Wave-Phasor Interface Library for Power System Simulation Studies in Modelica"
 type: software
+version: 1.0.0
 authors:
   - family-names: de Castro
     given-names: Marcelo
